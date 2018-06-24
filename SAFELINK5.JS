@@ -25,7 +25,6 @@ if(x=="1"){xxx="how-to-start-online-business-secret-is.html"}
 if(x=="2"){xxx="3-factors-that-have-impacted-indonesian.html"}
 if(x=="3"){xxx="10-tricks-that-will-change-way-you.html"}
 if(x=="4"){xxx="a-few-tips-ink-and-toner-fast-leaves.html"}
-if(x=="5"){xxx="digital-transformation-myths-and-trends.html"}
 if(x=="5"){xxx="go-to-url.html"}a_to_ve[i].href="https://safelinkoverlordfree.blogspot.com/2018/06/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
